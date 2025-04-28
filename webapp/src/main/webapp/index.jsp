@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Kalyanjangamwepp and Manasamittu</h1>
+    <h1>Kalyanjangam and Manasamittu webapp</h1>
     <h2>Deployed using Azure DevOps CI/CD Pipelines</h2>
     <i class="fas fa-cloud icon"></i>
     <footer>
